@@ -20,9 +20,6 @@ public class Main {
         int result1 = p.product(2, 3);
         int result2 = p.product(2, 3, 4);
         double result3 = p.product(2.5, 3.5);
-        System.out.println("Result 1: " + result1);
-        System.out.println("Result 2: " + result2);
-        System.out.println("Result 3: " + result3);
 
 
     }
